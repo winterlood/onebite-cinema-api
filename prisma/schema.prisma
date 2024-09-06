@@ -1,0 +1,44 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Movie {
+  id Int @id @default(autoincrement())
+
+  title String
+  subTitle String // (tagline) 부제?
+  description  String  // (overview) 시놉시스?
+
+  releaseDate String // (releaseDate) 개봉일
+  company String // (production_companies) 제작사(배열 -> 쉼표로 구분된 스트링으로 변환)
+  genres String[]
+  runtime Int
+
+  posterImgUrl String
+
+  searchIndex String @default("")
+  reviews Review[]
+}
+
+model Review {
+  id Int @id @default(autoincrement())
+  createdAt DateTime @default(now())
+
+  content String
+  author String
+
+  movieId Int
+  movie Movie @relation(fields: [movieId], references: [id], onDelete: Cascade)
+}
+
