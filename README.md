@@ -23,11 +23,12 @@ Node.js 20(or LTS) 이상의 버전이 필요합니다. (24.06.03 기준)
 
 Supabase에 가입한 다음 새로운 프로젝트를 생성합니다.
 
-프로젝트 생성이 완료되었다면 Settings 페이지로 이동한 다음  
-좌측 사이드바의 `Configuration > Database` 섹션에서 `Connection String`을 복사합니다.  
+프로젝트 생성이 완료되었다면 Settings 페이지로 이동한 다음 좌측 사이드바의 `Configuration > Database` 섹션에서 `Connection String`을 복사합니다.  
 (하단의 그림 자료 참고)
 
-<img width="1361" alt="image" src="https://github.com/winterlood/onebite-books-server/assets/46296754/8576abcd-084a-4648-a8a7-7c15adb821a3">
+> ⚠️ 이때 반드시 "Session Mode"로 변경한 다음 복사해 주세요 (Transaction Mode의 Connection String은 동작하지 않아요)
+
+![image](https://github.com/user-attachments/assets/e81e77a8-7084-408a-8a6f-6afb3af4e7be)
 
 복사한 `Connection String`을 `.env` 파일을 생성하여 다음과 같이 붙여넣습니다.
 
