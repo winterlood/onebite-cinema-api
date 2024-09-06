@@ -101,4 +101,4 @@ npx prisma studio
 
 **http://localhost:12345/api**
 
-<img width="1496" alt="image" src="https://github.com/winterlood/onebite-books-server/assets/46296754/e55f176b-8641-4484-bf36-9a3bc7590ac5">
+![image](https://github.com/user-attachments/assets/a4d428c8-471d-4a2f-97fa-b72247d168f9)
