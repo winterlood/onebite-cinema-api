@@ -1,1308 +1,200 @@
 [
   {
-    "adult": false,
-    "backdrop_path": "/stKGOm8UyhuLPR9sZLjs5AkmncA.jpg",
-    "belongs_to_collection": {
-      "id": 1022790,
-      "name": "인사이드 아웃 시리즈",
-      "poster_path": "/kvJqs0vm29U0xJa373wlzHb3FRh.jpg",
-      "backdrop_path": "/7U2m2dMSIfHx2gWXKq78Xj1weuH.jpg"
-    },
-    "budget": 200000000,
-    "genres": [
-      {
-        "id": 16,
-        "name": "애니메이션"
-      },
-      {
-        "id": 10751,
-        "name": "가족"
-      },
-      {
-        "id": 12,
-        "name": "모험"
-      },
-      {
-        "id": 35,
-        "name": "코미디"
-      }
-    ],
-    "homepage": "",
-    "id": 1022789,
-    "imdb_id": "tt22022452",
-    "origin_country": ["US"],
-    "original_language": "en",
-    "original_title": "Inside Out 2",
-    "overview": "13살이 된 라일리의 행복을 위해 매일 바쁘게 머릿속 감정 컨트롤 본부를 운영하는 ‘기쁨’, ‘슬픔’, ‘버럭’, ‘까칠’, ‘소심’. 그러던 어느 날, 낯선 감정인 ‘불안’, ‘당황’, ‘따분’, ‘부럽’이가 본부에 등장하고, 언제나 최악의 상황을 대비하며 제멋대로인 ‘불안’이와 기존 감정들은 계속 충돌한다. 결국 새로운 감정들에 의해 본부에서 쫓겨나게 된 기존 감정들은 다시 본부로 돌아가기 위해 위험천만한 모험을 시작하는데…",
-    "popularity": 1605.708,
-    "poster_path": "/pmemGuhr450DK8GiTT44mgwWCP7.jpg",
-    "production_companies": [
-      {
-        "id": 2,
-        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
-        "name": "Walt Disney Pictures",
-        "origin_country": "US"
-      },
-      {
-        "id": 3,
-        "logo_path": "/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png",
-        "name": "Pixar",
-        "origin_country": "US"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "US",
-        "name": "United States of America"
-      }
-    ],
-    "release_date": "2024-06-11",
-    "revenue": 1667589398,
-    "runtime": 97,
-    "spoken_languages": [
-      {
-        "english_name": "English",
-        "iso_639_1": "en",
-        "name": "English"
-      }
-    ],
-    "status": "Released",
-    "tagline": "비상! 새로운 감정들이 몰려온다!",
-    "title": "인사이드 아웃 2",
-    "video": false,
-    "vote_average": 7.677,
-    "vote_count": 3318
+    "id": 1,
+    "title": "미키 17",
+    "releaseDate": "2025-02-28",
+    "company": "워너 브라더스 코리아",
+    "genres": ["모험", "드라마", "SF", "코미디"],
+    "subTitle": "당신은 몇 번째 미키입니까?",
+    "description": "“당신은 몇 번째 미키입니까?” 친구 ‘티모’와 함께 차린 마카롱 가게가 쫄딱 망해 거액의 빚을 지고 못 갚으면 죽이겠다는 사채업자를 피해 지구를 떠나야 하는 ‘미키’. 기술이 없는 그는, 정치인 ‘마셜’의 얼음행성 개척단에서 위험한 일을 도맡고, 죽으면 다시 프린트되는 익스펜더블로 지원한다. 4년의 항해와 얼음행성 니플하임에 도착한 뒤에도 늘 ‘미키’를 지켜준 여자친구 ‘나샤’. 그와 함께, ‘미키’는 반복되는 죽음과 출력의 사이클에도 익숙해진다. 그러나 ‘미키 17’이 얼음행성의 생명체인 ‘크리퍼’와 만난 후 죽을 위기에서 돌아와 보니 이미 ‘미키 18’이 프린트되어 있다. 행성 당 1명만 허용된 익스펜더블이 둘이 된 ‘멀티플’ 상황. 둘 중 하나는 죽어야 하는 현실 속에 걷잡을 수 없는 사건이 기다리고 있었으니… “자알 죽고, 내일 만나”",
+    "runtime": 137,
+    "posterImgUrl": "https://search.pstatic.net/common?quality=75&direct=true&src=https%3A%2F%2Fmovie-phinf.pstatic.net%2F20250207_265%2F1738893336962Cn1Vd_JPEG%2Fmovie_image.jpg"
   },
   {
-    "adult": false,
-    "backdrop_path": "/yDHYTfA3R0jFYba16jBB1ef8oIt.jpg",
-    "belongs_to_collection": {
-      "id": 448150,
-      "name": "데드풀 시리즈",
-      "poster_path": "/30c5jO7YEXuF8KiWXLg9m28GWDA.jpg",
-      "backdrop_path": "/hBQOWY8qWXJVFAc8yLTh1teIu43.jpg"
-    },
-    "budget": 200000000,
-    "genres": [
-      {
-        "id": 28,
-        "name": "액션"
-      },
-      {
-        "id": 35,
-        "name": "코미디"
-      },
-      {
-        "id": 878,
-        "name": "SF"
-      }
-    ],
-    "homepage": "",
-    "id": 533535,
-    "imdb_id": "tt6263850",
-    "origin_country": ["US"],
-    "original_language": "en",
-    "original_title": "Deadpool & Wolverine",
-    "overview": "히어로 생활에서 은퇴한 후, 평범한 중고차 딜러로 살아가던 ‘데드풀’이 예상치 못한 거대한 위기를 맞아 모든 면에서 상극인 ‘울버린’을 찾아가게 되며 펼쳐지는 도파민 폭발 액션 블록버스터.",
-    "popularity": 3094.232,
-    "poster_path": "/4Zb4Z2HjX1t5zr1qYOTdVoisJKp.jpg",
-    "production_companies": [
-      {
-        "id": 420,
-        "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
-        "name": "Marvel Studios",
-        "origin_country": "US"
-      },
-      {
-        "id": 104228,
-        "logo_path": "/hx0C1XcSxGgat8N62GpxoJGTkCk.png",
-        "name": "Maximum Effort",
-        "origin_country": "US"
-      },
-      {
-        "id": 2575,
-        "logo_path": "/9YJrHYlcfHtwtulkFMAies3aFEl.png",
-        "name": "21 Laps Entertainment",
-        "origin_country": "US"
-      },
-      {
-        "id": 127928,
-        "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
-        "name": "20th Century Studios",
-        "origin_country": "US"
-      },
-      {
-        "id": 176762,
-        "logo_path": null,
-        "name": "Kevin Feige Productions",
-        "origin_country": "US"
-      },
-      {
-        "id": 22213,
-        "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
-        "name": "TSG Entertainment",
-        "origin_country": "US"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "US",
-        "name": "United States of America"
-      }
-    ],
-    "release_date": "2024-07-24",
-    "revenue": 1262160117,
-    "runtime": 128,
-    "spoken_languages": [
-      {
-        "english_name": "English",
-        "iso_639_1": "en",
-        "name": "English"
-      }
-    ],
-    "status": "Released",
-    "tagline": "",
-    "title": "데드풀과 울버린",
-    "video": false,
-    "vote_average": 7.7,
-    "vote_count": 2638
+    "id": 2,
+    "title": "검은 수녀들",
+    "releaseDate": "2025-01-24",
+    "company": "(주)NEW",
+    "genres": ["미스터리", "드라마"],
+    "subTitle": "금지된 곳으로 갈 준비가 되었습니다. 원칙은 단 하나, 무조건 살린다!",
+    "description": "금지된 곳으로 갈 준비가 되었습니다. ‘유니아’ 수녀(송혜교)는 ‘희준’(문우진)의 몸에 숨어든 악령이 12형상 중 하나라고 확신한다. 당장 올 수 없는 구마 사제를 기다리다가 부마자가 희생될 것이 분명한 상황. 결국 ‘유니아’는 소년을 구하기 위해 ‘서품을 받지 못한 수녀는 구마를 할 수 없다’는 금기를 깨기로 결심한다. 하지만 담당의는 ‘희준’을 살릴 수 있는 것은 오직 의학이라 믿는 ‘바오로’ 신부(이진욱). 우연한 기회에 그의 제자 ‘미카엘라’ 수녀(전여빈)의 비밀을 알아챈 ‘유니아’는 ‘희준’을 병원에서 빼내기 위해 막무가내로 도움을 요청한다. ‘미카엘라’는 거침없는 ‘유니아’ 에게 반발심을 느끼지만, 동질감이 느껴지는 ‘희준’을 위해 힘을 보태기로 한다. 마침내 두 수녀는 수단과 방법을 가리지 않고 오직 소년을 살리기 위한 위험한 의식을 시작하는데... 원칙은 단 하나, 무조건 살린다!",
+    "runtime": 114,
+    "posterImgUrl": "https://search.pstatic.net/common?quality=75&direct=true&src=https%3A%2F%2Fmovie-phinf.pstatic.net%2F20250120_54%2F1737354989887Wp150_JPEG%2Fmovie_image.jpg"
   },
   {
-    "adult": false,
-    "backdrop_path": "/6VaN94ukHGKAzPZtpxEpCentgv7.jpg",
-    "belongs_to_collection": null,
-    "budget": 0,
-    "genres": [
-      {
-        "id": 99,
-        "name": "다큐멘터리"
-      },
-      {
-        "id": 16,
-        "name": "애니메이션"
-      }
-    ],
-    "homepage": "",
-    "id": 1314450,
-    "imdb_id": null,
-    "origin_country": ["KR"],
-    "original_language": "ko",
-    "original_title": "안녕, 할부지",
-    "overview": "선물로 찾아온 만남, 예정된 이별. 푸바오의 중국 귀환 일정이 결정되고, 사랑하는 이들의 아쉬움이 커져만 간다. 마침내 다가온 이별의 순간, 푸바오의 행복을 위해 애써 담담해 보였던 강바오와 송바오 역시 흔들리기 시작하는데… 헤어질 때를 알기에 매 순간 진심이고 애틋했던 그들. 1354일, 그동안의 못다 한 이야기. 안녕, 그리고 안녕…",
-    "popularity": 36.725,
-    "poster_path": "/2rDHFtRtAiixl3eWT7h5pae6Tue.jpg",
-    "production_companies": [
-      {
-        "id": 233338,
-        "logo_path": "/sSjC5iN8FgaXaqkdJE0YYbXsCcJ.png",
-        "name": "ACOMMZ",
-        "origin_country": "KR"
-      },
-      {
-        "id": 235439,
-        "logo_path": "/As8S2HpqZmth3tI8xfP7T69Ph9U.png",
-        "name": "Everland Resort",
-        "origin_country": "KR"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "KR",
-        "name": "South Korea"
-      }
-    ],
-    "release_date": "2024-09-04",
-    "revenue": 0,
-    "runtime": 95,
-    "spoken_languages": [
-      {
-        "english_name": "Korean",
-        "iso_639_1": "ko",
-        "name": "한국어/조선말"
-      }
-    ],
-    "status": "Released",
-    "tagline": "사랑을 준 건 나였지만 행복을 준 건 너였어",
-    "title": "안녕, 할부지",
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0
+    "id": 3,
+    "title": "아이유 콘서트 : 더 위닝",
+    "releaseDate": "2025-01-24",
+    "company": "CGV ICECON, CJ 4DPLEX",
+    "genres": ["공연실황"],
+    "subTitle": "최초의 아이콘 아이유, 100번째 콘서트로 완성된 찬란한 기록",
+    "description": "최초의 아이콘 아이유, 100번째 콘서트로 완성된 찬란한 기록. 'Love wins all', '홀씨', 'Shopper', 'Celebrity', 'Last Fantasy' 등 수많은 명곡으로 서울월드컵경기장을 가득 채운 아이유와 유애나의 뜨거운 에너지와 함성. 상암 하늘을 수놓은 환상적인 드론쇼까지! 승리를 위해 달려온 여정의 마지막 챕터가 지금 스크린에서 펼쳐진다!",
+    "runtime": 124,
+    "posterImgUrl": "https://search.pstatic.net/common?quality=75&direct=true&src=https%3A%2F%2Fmovie-phinf.pstatic.net%2F20250108_174%2F1736328720692tngqd_JPEG%2Fmovie_image.jpg"
   },
   {
-    "adult": false,
-    "backdrop_path": "/wfimMlHEWnHxfAdTF34UiDjUQcW.jpg",
-    "belongs_to_collection": null,
-    "budget": 0,
-    "genres": [
-      {
-        "id": 16,
-        "name": "애니메이션"
-      },
-      {
-        "id": 10751,
-        "name": "가족"
-      },
-      {
-        "id": 12,
-        "name": "모험"
-      }
-    ],
-    "homepage": "",
-    "id": 1275096,
-    "imdb_id": "tt33082302",
-    "origin_country": ["KR"],
-    "original_language": "ko",
-    "original_title": "사랑의 하츄핑",
-    "overview": "인생의 소울메이트를 꼭 만나길 바라는 로미. 우연한 기회에 하츄핑을 처음 본 뒤, 운명의 인연임을 알아본다. 로미는 하츄핑을 찾기 위해 반대를 무릅쓰고 새로운 길을 떠나지만, 마침내 만나게 된 하츄핑은 인간과의 소통을 거부하는데…",
-    "popularity": 8.203,
-    "poster_path": "/52pyvvUJsn4Z3yEQhlCmzlzCCBm.jpg",
-    "production_companies": [
-      {
-        "id": 79175,
-        "logo_path": "/e3uLvwItKgTfzfwansI0ZjtN45N.png",
-        "name": "SAMG Animation",
-        "origin_country": "KR"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "KR",
-        "name": "South Korea"
-      }
-    ],
-    "release_date": "2024-08-07",
-    "revenue": 0,
-    "runtime": 86,
-    "spoken_languages": [
-      {
-        "english_name": "Korean",
-        "iso_639_1": "ko",
-        "name": "한국어/조선말"
-      }
-    ],
-    "status": "Released",
-    "tagline": "너와 나의 첫번째 이야기",
-    "title": "사랑의 하츄핑",
-    "video": false,
-    "vote_average": 4.75,
-    "vote_count": 2
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/bPbPrWWJGaLXQ5ESjcaIbMzVDg8.jpg",
-    "belongs_to_collection": {
-      "id": 39199,
-      "name": "명탐정 코난 극장판",
-      "poster_path": "/bV6EHK0Q65hHKSoVDeACbc960jQ.jpg",
-      "backdrop_path": "/mwz7lYimh8da0zZHOI41xNd86yH.jpg"
-    },
-    "budget": 0,
-    "genres": [
-      {
-        "id": 16,
-        "name": "애니메이션"
-      },
-      {
-        "id": 80,
-        "name": "범죄"
-      },
-      {
-        "id": 9648,
-        "name": "미스터리"
-      },
-      {
-        "id": 28,
-        "name": "액션"
-      }
-    ],
-    "homepage": "",
-    "id": 1209217,
-    "imdb_id": "tt31474158",
-    "origin_country": ["JP"],
-    "original_language": "ja",
-    "original_title": "名探偵コナン 100万ドルの五稜星（みちしるべ）",
-    "overview": "홋카이도 하코다테에 있는 ‘오노에’ 재벌 가의 창고에 ‘괴도 키드’의 예고장이 도착한다. ‘빅 주얼’만을 노리는 키드가 이번에 노리는 것은 과거 신선조 귀신 부장 ‘히지카타 토시조’와 얽힌 전설적인 검. 검술 대회에 참가하기 위해 하코다테에 방문한 ‘핫토리 헤이지’와 그를 응원하기 위해 온 ‘코난’ 일행도 괴도 키드를 막기 위해 사건에 뛰어들게 된다. 한편, 가슴에 열 십 자(十) 모양의 자상을 입은 시신이 발견되고 ‘죽음의 상인’이라고 불리는 무기상이 용의자로 지목된다. 그 역시 괴도 키드가 찾는 검을 노리고 있었고, 그 검이 오노에 가문이 세대에 걸쳐 지킨 보물을 찾을 열쇠임이 밝혀진다. 검을 쫓는 키드에게 수수께끼의 검사가 습격해 오고, 절체절명의 위기가 닥쳐오는데…!",
-    "popularity": 89.168,
-    "poster_path": "/n5tubyY6HoGzhd3RpTAmfKgrt9Y.jpg",
-    "production_companies": [
-      {
-        "id": 7164,
-        "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
-        "name": "TMS Entertainment",
-        "origin_country": "JP"
-      },
-      {
-        "id": 11727,
-        "logo_path": "/cIMyE9cw1W4kMFGxmC17HKTnVz9.png",
-        "name": "Yomiuri Telecasting Corporation",
-        "origin_country": "JP"
-      },
-      {
-        "id": 9149,
-        "logo_path": "/isLUpud9N56ifftJZ4XvzwBBpoG.png",
-        "name": "Shogakukan",
-        "origin_country": "JP"
-      },
-      {
-        "id": 882,
-        "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
-        "name": "TOHO",
-        "origin_country": "JP"
-      },
-      {
-        "id": 6755,
-        "logo_path": "/c0ENH8QeZLvCACpzCpwvYMy2SDr.png",
-        "name": "Nippon Television Network Corporation",
-        "origin_country": "JP"
-      },
-      {
-        "id": 12655,
-        "logo_path": "/dfGqf2NoMVPrDywDL90D5HAhBlW.png",
-        "name": "Shogakukan-Shueisha Productions",
-        "origin_country": "JP"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "JP",
-        "name": "Japan"
-      }
-    ],
-    "release_date": "2024-04-12",
-    "revenue": 107860423,
-    "runtime": 111,
-    "spoken_languages": [
-      {
-        "english_name": "Japanese",
-        "iso_639_1": "ja",
-        "name": "日本語"
-      }
-    ],
-    "status": "Released",
-    "tagline": "마침내 밝혀지는 괴도 키드의 진실",
-    "title": "명탐정 코난: 100만 달러의 펜타그램",
-    "video": false,
-    "vote_average": 6.471,
-    "vote_count": 17
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/nb3xI8XI3w4pMVZ38VijbsyBqP4.jpg",
-    "belongs_to_collection": null,
-    "budget": 100000000,
-    "genres": [
-      {
-        "id": 18,
-        "name": "드라마"
-      },
-      {
-        "id": 36,
-        "name": "역사"
-      }
-    ],
-    "homepage": "",
-    "id": 872585,
-    "imdb_id": "tt15398776",
-    "origin_country": ["US"],
-    "original_language": "en",
-    "original_title": "Oppenheimer",
-    "overview": "제2차 세계대전 당시 핵무기 개발을 위해 진행되었던 비밀 프로젝트 ‘맨해튼 프로젝트’를 주도한 미국의 물리학자 ‘로버트 오펜하이머’의 이야기",
-    "popularity": 156.64,
-    "poster_path": "/jpD6z9fgNe7OqsHoDeAWQWoULde.jpg",
-    "production_companies": [
-      {
-        "id": 9996,
-        "logo_path": "/3tvBqYsBhxWeHlu62SIJ1el93O7.png",
-        "name": "Syncopy",
-        "origin_country": "GB"
-      },
-      {
-        "id": 33,
-        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
-        "name": "Universal Pictures",
-        "origin_country": "US"
-      },
-      {
-        "id": 507,
-        "logo_path": "/aRmHe6GWxYMRCQljF75rn2B9Gv8.png",
-        "name": "Atlas Entertainment",
-        "origin_country": "US"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "GB",
-        "name": "United Kingdom"
-      },
-      {
-        "iso_3166_1": "US",
-        "name": "United States of America"
-      }
-    ],
-    "release_date": "2023-07-19",
-    "revenue": 952000000,
-    "runtime": 181,
-    "spoken_languages": [
-      {
-        "english_name": "Dutch",
-        "iso_639_1": "nl",
-        "name": "Nederlands"
-      },
-      {
-        "english_name": "English",
-        "iso_639_1": "en",
-        "name": "English"
-      }
-    ],
-    "status": "Released",
-    "tagline": "나는 이제 죽음이요, 세상의 파괴자가 되었다.",
-    "title": "오펜하이머",
-    "video": false,
-    "vote_average": 8.094,
-    "vote_count": 8874
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/aINel9503ompOlGKn4sIVMg09Un.jpg",
-    "belongs_to_collection": null,
-    "budget": 0,
-    "genres": [
-      {
-        "id": 9648,
-        "name": "미스터리"
-      },
-      {
-        "id": 27,
-        "name": "공포"
-      },
-      {
-        "id": 53,
-        "name": "스릴러"
-      }
-    ],
-    "homepage": "",
-    "id": 838209,
-    "imdb_id": "tt27802490",
-    "origin_country": ["KR"],
-    "original_language": "ko",
-    "original_title": "파묘",
-    "overview": "미국 LA, 거액의 의뢰를 받은 무당 화림과 봉길은 기이한 병이 대물림되는 집안의 장손을 만난다. 조상의 묫자리가 화근임을 알아챈 화림은 이장을 권하고, 돈 냄새를 맡은 최고의 풍수사 상덕과 장의사 영근이 합류한다. 절대 사람이 묻힐 수 없는 악지에 자리한 기이한 묘. 상덕은 불길한 기운을 느끼고 제안을 거절하지만, 화림의 설득으로 결국 파묘가 시작되고… 나와서는 안될 것이 나왔다.",
-    "popularity": 109.385,
-    "poster_path": "/tw0i3kkmOTjDjGFZTLHKhoeXVvA.jpg",
-    "production_companies": [
-      {
-        "id": 3491,
-        "logo_path": "/hXRKXi3M9qfP4Npi1kjAaH4eGnM.png",
-        "name": "Showbox",
-        "origin_country": "KR"
-      },
-      {
-        "id": 15974,
-        "logo_path": "/whf327LIlsbElBmCXIgnL0aueko.png",
-        "name": "MCMC",
-        "origin_country": "KR"
-      },
-      {
-        "id": 217380,
-        "logo_path": null,
-        "name": "Pinetown Production",
-        "origin_country": "KR"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "KR",
-        "name": "South Korea"
-      }
-    ],
-    "release_date": "2024-02-22",
-    "revenue": 97225691,
-    "runtime": 133,
-    "spoken_languages": [
-      {
-        "english_name": "English",
-        "iso_639_1": "en",
-        "name": "English"
-      },
-      {
-        "english_name": "Japanese",
-        "iso_639_1": "ja",
-        "name": "日本語"
-      },
-      {
-        "english_name": "Korean",
-        "iso_639_1": "ko",
-        "name": "한국어/조선말"
-      }
-    ],
-    "status": "Released",
-    "tagline": "험한 것이 나왔다",
-    "title": "파묘",
-    "video": false,
-    "vote_average": 7.643,
-    "vote_count": 316
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/84bWZa16ALeGKcdmvKWv6Kvoohb.jpg",
-    "belongs_to_collection": null,
-    "budget": 0,
-    "genres": [
-      {
-        "id": 80,
-        "name": "범죄"
-      },
-      {
-        "id": 18,
-        "name": "드라마"
-      }
-    ],
-    "homepage": "",
-    "id": 1007127,
-    "imdb_id": "tt31315820",
-    "origin_country": ["KR"],
-    "original_language": "ko",
-    "original_title": "댓글부대",
-    "overview": "실력 있지만 허세 가득한 사회부 기자 임상진.  대기업 만전의 비리를 취재하지만 오보로 판명되며 정직당한다. 그러던 어느 날, 온라인 여론을 조작했다는 의문의 제보자가 찾아오는데…",
-    "popularity": 8.918,
-    "poster_path": "/eR7ybceTRhBFjsdlshXqAAihBFg.jpg",
-    "production_companies": [
-      {
-        "id": 196799,
-        "logo_path": null,
-        "name": "Cinematic Moment",
-        "origin_country": "KR"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "KR",
-        "name": "South Korea"
-      }
-    ],
-    "release_date": "2024-03-27",
-    "revenue": 0,
-    "runtime": 109,
-    "spoken_languages": [
-      {
-        "english_name": "Korean",
-        "iso_639_1": "ko",
-        "name": "한국어/조선말"
-      }
-    ],
-    "status": "Released",
-    "tagline": "인터넷에서 본 글 어디까지 믿으세요?",
-    "title": "댓글부대",
-    "video": false,
-    "vote_average": 5.4,
-    "vote_count": 5
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/jRL1GH7EepqD8r7bIzdm8jitKQi.jpg",
-    "belongs_to_collection": {
-      "id": 1089303,
-      "name": "베테랑 시리즈",
-      "poster_path": "/bz3cAuXzCeANKnOE2V2OyjENeTr.jpg",
-      "backdrop_path": "/kfu1xZwYhwKCWjnOJkYHJk8SKG1.jpg"
-    },
-    "budget": 0,
-    "genres": [
-      {
-        "id": 28,
-        "name": "액션"
-      },
-      {
-        "id": 80,
-        "name": "범죄"
-      },
-      {
-        "id": 35,
-        "name": "코미디"
-      }
-    ],
-    "homepage": "",
-    "id": 995926,
-    "imdb_id": "tt30287778",
-    "origin_country": ["KR"],
-    "original_language": "ko",
-    "original_title": "베테랑 2",
-    "overview": "가족들도 못 챙기고 밤낮 없이 범죄들과 싸우는 베테랑 형사 서도철과 강력범죄수사대 형사들. 어느 날, 한 교수의 죽음이 이전에 발생했던 살인 사건들과 연관성이 있는 것으로 밝혀지며 전국은 연쇄살인범으로 인해 떠들썩해진다. 이에 단서를 추적하며 수사를 시작한 형사들. 하지만 이들을 비웃기라도 하듯, 연쇄살인범은 다음 살인 대상을 지목하는 예고편을 인터넷에 공개하며 또 한 번 전 국민을 흔들어 놓는다. 강력범죄수사대는 서도철의 눈에 든 정의감 넘치는 막내 형사 박선우를 투입한다. 그리고 사건은 새로운 방향으로 흐르게 되는데...",
-    "popularity": 14.968,
-    "poster_path": "/akqfhtM1Wa1klFi7ijmyNm7Sm1j.jpg",
-    "production_companies": [
-      {
-        "id": 12987,
-        "logo_path": "/32ea3CCKrNNO8jZBOcN2tbjPpuf.png",
-        "name": "Filmmaker R&K",
-        "origin_country": "KR"
-      },
-      {
-        "id": 7036,
-        "logo_path": "/javbyY0ZCvlFJtly3tpZqf2NwLX.png",
-        "name": "CJ Entertainment",
-        "origin_country": "KR"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "KR",
-        "name": "South Korea"
-      }
-    ],
-    "release_date": "2024-09-13",
-    "revenue": 0,
+    "id": 4,
+    "title": "캡틴 아메리카: 브레이브 뉴 월드",
+    "releaseDate": "2025-02-12",
+    "company": "월트디즈니 컴퍼니 코리아",
+    "genres": ["액션", "모험", "SF"],
+    "subTitle": "새로운 캡틴 아메리카의 대 활약",
+    "description": "대통령이 된 새디우스 로스와 재회 후, 국제적인 사건의 중심에 서게 된 샘이 전 세계를 붉게 장악하려는 사악한 음모 뒤에 숨겨진 존재와 이유를 파헤쳐 나가는 액션 블록버스터",
     "runtime": 118,
-    "spoken_languages": [
-      {
-        "english_name": "Korean",
-        "iso_639_1": "ko",
-        "name": "한국어/조선말"
-      }
-    ],
-    "status": "Released",
-    "tagline": "죄짓고 살지 말라 그랬지?",
-    "title": "베테랑 2",
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0
+    "posterImgUrl": "https://search.pstatic.net/common?quality=75&direct=true&src=https%3A%2F%2Fmovie-phinf.pstatic.net%2F20250207_135%2F17388962578517PWcE_JPEG%2Fmovie_image.jpg"
   },
   {
-    "adult": false,
-    "backdrop_path": "/9SSEUrSqhljBMzRe4aBTh17rUaC.jpg",
-    "belongs_to_collection": null,
-    "budget": 80000000,
-    "genres": [
-      {
-        "id": 27,
-        "name": "공포"
-      },
-      {
-        "id": 878,
-        "name": "SF"
-      }
-    ],
-    "homepage": "",
-    "id": 945961,
-    "imdb_id": "tt18412256",
-    "origin_country": ["US"],
-    "original_language": "en",
-    "original_title": "Alien: Romulus",
-    "overview": "2142년, 부모 세대가 맞닥뜨렸던 암울한 미래를 피하려는 청년들이 더 나은 삶을 찾기 위해 식민지를 떠날 계획을 세운다. 하지만 버려진 우주 기지 로물루스에 도착한 이들은 악몽과도 같은 에이리언의 무자비한 공격에 쫓기기 시작한다. 그 누구도 그들의 절규를 들을 수 없는 우주 한가운데, 생존을 위한 치열한 사투를 벌여야 하는데...",
-    "popularity": 782.973,
-    "poster_path": "/bMGcJVd4hXlDcevRJZBK5qROlyP.jpg",
-    "production_companies": [
-      {
-        "id": 127928,
-        "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
-        "name": "20th Century Studios",
-        "origin_country": "US"
-      },
-      {
-        "id": 221347,
-        "logo_path": "/6Ry6uNBaa0IbbSs1XYIgX5DkA9r.png",
-        "name": "Scott Free Productions",
-        "origin_country": "US"
-      },
-      {
-        "id": 401,
-        "logo_path": "/t7mM3DvQ9MwDT3YzMCBrkWpWiiz.png",
-        "name": "Brandywine Productions",
-        "origin_country": "US"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "US",
-        "name": "United States of America"
-      }
-    ],
-    "release_date": "2024-08-13",
-    "revenue": 285312631,
-    "runtime": 119,
-    "spoken_languages": [
-      {
-        "english_name": "English",
-        "iso_639_1": "en",
-        "name": "English"
-      }
-    ],
-    "status": "Released",
-    "tagline": "비명마저 집어삼킬 극강의 공포",
-    "title": "에이리언: 로물루스",
-    "video": false,
-    "vote_average": 7.2,
-    "vote_count": 865
+    "id": 5,
+    "title": "위플래시",
+    "releaseDate": "2025-03-12",
+    "company": "(주)NEW",
+    "genres": ["드라마"],
+    "subTitle": "“세상에서 제일 해로운 말이 뭔지 알아? ‘그 정도면 잘했어’야” 미친놈 vs 미친놈, 집념과 광기가 폭발한다!",
+    "description": "뉴욕의 명문 음악 학교에 다니지만 특별히 주목받지 못하던 드러머 앤드류. 최고의 드러머를 꿈꾸며 연습에만 매진하던 그는 어느 날, 우연히 교내 최고의 밴드를 이끄는 플레쳐 교수의 눈에 띄어 그의 밴드에 발탁된다. 그러나 모욕적인 폭언과 폭력을 휘두르며 완벽을 강요하는 플레쳐 교수의 무자비한 교수법으로 인해 앤드류는 능력을 증명해야 한다는 생각에 점차 미쳐가고, 앤드류가 광기에 휩싸일수록 플레쳐 교수의 완벽을 향한 집념 역시 높아지는데…! “세상에서 제일 해로운 말이 뭔지 알아? ‘그 정도면 잘했어’야” 미친놈 vs 미친놈, 집념과 광기가 폭발한다!",
+    "runtime": 106,
+    "posterImgUrl": "https://search.pstatic.net/common?quality=75&direct=true&src=https%3A%2F%2Fmovie-phinf.pstatic.net%2F20250211_13%2F1739238451278AUJm0_JPEG%2Fmovie_image.jpg"
   },
   {
-    "adult": false,
-    "backdrop_path": "/yyFc8Iclt2jxPmLztbP617xXllT.jpg",
-    "belongs_to_collection": null,
-    "budget": 125000000,
-    "genres": [
-      {
-        "id": 35,
-        "name": "코미디"
-      },
-      {
-        "id": 10751,
-        "name": "가족"
-      },
-      {
-        "id": 14,
-        "name": "판타지"
-      }
-    ],
-    "homepage": "",
-    "id": 787699,
-    "imdb_id": "tt6166392",
-    "origin_country": ["GB"],
-    "original_language": "en",
-    "original_title": "Wonka",
-    "overview": "마법사이자 초콜릿 메이커 ‘윌리 웡카’의 꿈은 디저트의 성지, ‘달콤 백화점’에 자신만의 초콜릿 가게를 여는 것. 가진 것이라고는 낡은 모자 가득한 꿈과 단돈 12소베른 뿐이지만 특별한 마법의 초콜릿으로 사람들을 사로잡을 자신이 있다. 하지만 먹을 것도, 잠잘 곳도, 의지할 사람도 없는 상황 속에서 낡은 여인숙에 머물게 된 ‘웡카’는 ‘스크러빗 부인’과 ‘블리처’의 계략에 빠져 눈더미처럼 불어난 숙박비로 인해 순식간에 빚더미에 오른다. 게다가 밤마다 초콜릿을 훔쳐가는 작은 도둑 ‘움파 룸파’의 등장과 ‘달콤 백화점’을 독점한 초콜릿 카르텔의 강력한 견제까지. 세계 최고의 초콜릿 메이커가 되는 길은 험난하기만 한데…",
-    "popularity": 137.569,
-    "poster_path": "/lQ4cwauq2jeTkka9RvdMBTVPLMH.jpg",
-    "production_companies": [
-      {
-        "id": 174,
-        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
-        "name": "Warner Bros. Pictures",
-        "origin_country": "US"
-      },
-      {
-        "id": 79,
-        "logo_path": "/at4uYdwAAgNRKhZuuFX8ShKSybw.png",
-        "name": "Village Roadshow Pictures",
-        "origin_country": "US"
-      },
-      {
-        "id": 214904,
-        "logo_path": "/9S6xSAsUiE1zuKzxayco7fD0p26.png",
-        "name": "The Roald Dahl Story Company",
-        "origin_country": "GB"
-      },
-      {
-        "id": 437,
-        "logo_path": "/nu20mtwbEIhUNnQ5NXVhHsNknZj.png",
-        "name": "Heyday Films",
-        "origin_country": "GB"
-      },
-      {
-        "id": 216687,
-        "logo_path": null,
-        "name": "Domain Entertainment",
-        "origin_country": "US"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "GB",
-        "name": "United Kingdom"
-      },
-      {
-        "iso_3166_1": "US",
-        "name": "United States of America"
-      }
-    ],
-    "release_date": "2023-12-06",
-    "revenue": 632302312,
-    "runtime": 117,
-    "spoken_languages": [
-      {
-        "english_name": "English",
-        "iso_639_1": "en",
-        "name": "English"
-      }
-    ],
-    "status": "Released",
-    "tagline": "세상에서 가장 달콤한 여정 좋은 일은 모두 꿈에서부터 시작된다!",
-    "title": "웡카",
-    "video": false,
-    "vote_average": 7.153,
-    "vote_count": 3305
+    "id": 6,
+    "title": "존 윅",
+    "releaseDate": "2025-03-19",
+    "company": "(주)제이앤씨미디어그룹, 와이드 릴리즈㈜",
+    "genres": ["액션", "스릴러"],
+    "subTitle": "3월 19일 전설의 귀환",
+    "description": "전설이라 불리던 킬러 ‘존 윅’. 사랑하는 아내 ‘헬렌’과의 평화로운 삶도 잠시, 그녀의 죽음 이후 그에게는 아내가 남긴 강아지와 차 한 대만이 남는다. 어느 날, ‘존 윅’의 차를 노린 요제프 일당이 그의 차를 훔치고, 아내가 남긴 강아지마저 죽여버린다. 이에 분노한 ‘존 윅’은 자신의 모든 것을 앗아간 이들에게 복수하기 위해 지하에 파묻었던 총과 칼을 다시 꺼내드는데…",
+    "runtime": 101,
+    "posterImgUrl": "https://search.pstatic.net/common?quality=75&direct=true&src=https%3A%2F%2Fmovie-phinf.pstatic.net%2F20250306_162%2F1741233401976TRBxt_JPEG%2Fmovie_image.jpg"
   },
   {
-    "adult": false,
-    "backdrop_path": "/xOMo8BRK7PfcJv9JCnx7s5hj0PX.jpg",
-    "belongs_to_collection": {
-      "id": 726871,
-      "name": "듄 시리즈",
-      "poster_path": "/c1AiZTXyyzmPOlTLSubp7CEeYj.jpg",
-      "backdrop_path": "/ygVSGv86R0BTOKJIb8RQ1sFxs4q.jpg"
-    },
-    "budget": 190000000,
-    "genres": [
-      {
-        "id": 878,
-        "name": "SF"
-      },
-      {
-        "id": 12,
-        "name": "모험"
-      }
-    ],
-    "homepage": "",
-    "id": 693134,
-    "imdb_id": "tt15239678",
-    "origin_country": ["US"],
-    "original_language": "en",
-    "original_title": "Dune: Part Two",
-    "overview": "황제의 모략으로 멸문한 가문의 유일한 후계자 폴. 어머니 레이디 제시카와 간신히 목숨만 부지한 채 사막으로 도망친다. 그곳에서 만난 반란군들과 숨어 지내다 그들과 함께 황제의 모든 것을 파괴할 전투를 준비한다. 한편 반란군들의 기세가 높아질수록 불안해진 황제와 귀족 가문은 잔혹한 암살자 페이드 로타를 보내 반란군을 몰살하려 하는데…",
-    "popularity": 300.94,
-    "poster_path": "/8uUU2pxm6IYZw8UgnKJyx7Dqwu9.jpg",
-    "production_companies": [
-      {
-        "id": 923,
-        "logo_path": "/8M99Dkt23MjQMTTWukq4m5XsEuo.png",
-        "name": "Legendary Pictures",
-        "origin_country": "US"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "US",
-        "name": "United States of America"
-      }
-    ],
-    "release_date": "2024-02-27",
-    "revenue": 711844359,
-    "runtime": 167,
-    "spoken_languages": [
-      {
-        "english_name": "English",
-        "iso_639_1": "en",
-        "name": "English"
-      }
-    ],
-    "status": "Released",
-    "tagline": "운명의 반격이 시작된다!",
-    "title": "듄: 파트 2",
-    "video": false,
-    "vote_average": 8.166,
-    "vote_count": 5162
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/4AMAfqTnYsYESpZwJ3eXAOKg4al.jpg",
-    "belongs_to_collection": null,
-    "budget": 0,
-    "genres": [
-      {
-        "id": 35,
-        "name": "코미디"
-      },
-      {
-        "id": 80,
-        "name": "범죄"
-      }
-    ],
-    "homepage": "https://teamduckhee.kr/",
-    "id": 696047,
-    "imdb_id": "tt30364726",
-    "origin_country": ["KR"],
-    "original_language": "ko",
-    "original_title": "시민덕희",
-    "overview": "세탁소 화재로 인해 대출상품을 알아보던 생활력 만렙 덕희에게 어느 날, 거래은행의 손대리가 합리적인 대출상품을 제안하겠다며 전화를 걸어온다. 대출에 필요하다며 이런저런 수수료를 요구한 손대리에게 돈을 보낸 덕희는 이 모든 과정이 보이스피싱이었음을 뒤늦게 인지하고 충격에 빠진다. 전 재산을 잃고 아이들과 거리로 나앉게 생긴 덕희에게 어느 날 손대리가 다시 전화를 걸어오는데… 이번엔 살려달라는 전화다! 경찰도 포기한 사건, 덕희는 손대리도 구출하고 잃어버린 돈도 찾겠다는 일념으로 필살기 하나씩 장착한 직장 동료들과 함께 중국 칭다오로 직접 날아간다.",
-    "popularity": 14.335,
-    "poster_path": "/hu4nI6znjpdLqcq2SLfLRc3CJOQ.jpg",
-    "production_companies": [
-      {
-        "id": 63014,
-        "logo_path": "/fw6qEw1GXCKf6n51zwN7nJTG42S.png",
-        "name": "CJeS Studios",
-        "origin_country": "KR"
-      },
-      {
-        "id": 154303,
-        "logo_path": "/p8KfkPmYSFA1RGmIoz2KtwnlR67.png",
-        "name": "Page One Film",
-        "origin_country": "KR"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "KR",
-        "name": "South Korea"
-      }
-    ],
-    "release_date": "2024-01-24",
-    "revenue": 0,
+    "id": 7,
+    "title": "원더",
+    "releaseDate": "2025-02-12",
+    "company": "CGV 아트하우스, CJ CGV, (주)키노라이츠, (주)스튜디오 디에이치엘, 그린나래미디어(주)",
+    "genres": ["드라마"],
+    "subTitle": "새로운 시작을 맞이하는 모두에게",
+    "description": "누구보다 위트 있고 호기심 많은 매력 부자 ‘어기'(제이콥 트렘블레이). 하지만 남들과 다른 외모로 태어난 ‘어기'는 모두가 좋아하는 크리스마스 대신 얼굴을 감출 수 있는 할로윈을 더 좋아한다. 10살이 된 아들에게 더 큰 세상을 보여주고 싶었던 엄마 ‘이사벨’(줄리아 로버츠)과 아빠 ‘네이트’(오웬 윌슨)는 ‘어기'를 학교에 보낼 준비를 하고, 동생에게 모든 것을 양보해왔지만 누구보다 그를 사랑하는 누나 ‘비아'도 ‘어기'의 첫걸음을 응원해준다. 그렇게 가족이 세상의 전부였던 ‘어기'는 처음으로 헬멧을 벗고 낯선 세상에 용감하게 첫발을 내딛지만 첫날부터 ‘남다른 외모'로 화제의 주인공이 되고, 사람들의 시선에 큰 상처를 받는다. 그러나 ‘어기'는 27번의 성형(?)수술을 견뎌낸 긍정적인 성격으로 다시 한번 용기를 내고, 주변 사람들도 하나둘 변하기 시작하는데...",
     "runtime": 113,
-    "spoken_languages": [
-      {
-        "english_name": "Korean",
-        "iso_639_1": "ko",
-        "name": "한국어/조선말"
-      }
-    ],
-    "status": "Released",
-    "tagline": "아무도 못 잡으면, 우리가 꼭 잡는다",
-    "title": "시민덕희",
-    "video": false,
-    "vote_average": 7.475,
-    "vote_count": 20
+    "posterImgUrl": "https://search.pstatic.net/common?quality=75&direct=true&src=https%3A%2F%2Fmovie-phinf.pstatic.net%2F20250123_251%2F1737605477501jJsWE_JPEG%2Fmovie_image.jpg"
   },
   {
-    "adult": false,
-    "backdrop_path": "/kcrjQkK9XlUe0yD1cZptf4z5h3v.jpg",
-    "belongs_to_collection": null,
-    "budget": 0,
-    "genres": [
-      {
-        "id": 18,
-        "name": "드라마"
-      },
-      {
-        "id": 36,
-        "name": "역사"
-      },
-      {
-        "id": 53,
-        "name": "스릴러"
-      },
-      {
-        "id": 10752,
-        "name": "전쟁"
-      },
-      {
-        "id": 80,
-        "name": "범죄"
-      }
-    ],
-    "homepage": "",
-    "id": 919207,
-    "imdb_id": "tt22507524",
-    "origin_country": ["KR"],
-    "original_language": "ko",
-    "original_title": "서울의 봄",
-    "overview": "박 대통령의 암살 이후, 계엄령이 선포된다. 국군보안사령관 전두광과 그를 따르는 장교들에 의해 쿠데타가 일어나고 군대가 정치적 행동을 해선 안된다고 믿는 완고한 군인인, 수도방위사령관 이태신은 전두광을 막기 위해 그와 맞서기로 한다. 그들의 갈등이 점차 심화되고, 대혼란 속에서 모두가 갈망하던 서울의 봄은 예상치 못한 방향으로 흘러간다.",
-    "popularity": 29.168,
-    "poster_path": "/ukVVnY9ovwl78WE5KndcpA6SnAm.jpg",
-    "production_companies": [
-      {
-        "id": 108532,
-        "logo_path": "/lHzoqEuTPHwKSFiBx9skKpp9vCc.png",
-        "name": "Hive Media Corp",
-        "origin_country": "KR"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "KR",
-        "name": "South Korea"
-      }
-    ],
-    "release_date": "2023-11-22",
-    "revenue": 0,
-    "runtime": 141,
-    "spoken_languages": [
-      {
-        "english_name": "Korean",
-        "iso_639_1": "ko",
-        "name": "한국어/조선말"
-      }
-    ],
-    "status": "Released",
-    "tagline": "1979.12.12 그날 밤 철저히 감춰진 9시간",
-    "title": "서울의 봄",
-    "video": false,
-    "vote_average": 7.5,
-    "vote_count": 76
+    "id": 8,
+    "title": "보고타: 마지막 기회의 땅",
+    "releaseDate": "2024-12-31",
+    "company": "플러스엠 엔터테인먼트",
+    "genres": ["범죄", "드라마"],
+    "subTitle": "희망 없는 인생, 기회는 그 곳에 있었다",
+    "description": "희망 없는 인생, 기회는 바로 그 곳에 있었다. 1997년 IMF의 후폭풍을 피하지 못한 국희(송중기)와 가족들은 지구 반대편 콜롬비아 보고타로 향한다. 낯선 땅에서 살아남기 위해, 한인 상인회의 권력을 쥔 박병장(권해효) 밑에서 일을 시작한 국희. 성실함으로 박병장의 눈에 띈 국희는 박병장의 테스트로 의류 밀수 현장에 가담하게 되고, 콜롬비아 세관에게 걸릴 위기 상황 속에서 목숨 걸고 박병장의 물건을 지켜내며 박병장은 물론 통관 브로커 수영(이희준)에게도 강렬하게 존재감을 각인시킨다. 곧 수영이 국희에게 위험한 제안을 하고, 이를 눈치 챈 박병장 또한 새로운 계획을 세우며 국희를 시험에 들게 한다. 본인의 선택으로 보고타 한인 사회의 판도를 바꿀 수 있음을 체감한 국희는 점점 더 큰 성공을 열망하게 되는데…",
+    "runtime": 107,
+    "posterImgUrl": "https://search.pstatic.net/common?quality=75&direct=true&src=https%3A%2F%2Fmovie-phinf.pstatic.net%2F20241231_77%2F1735610159244tonW5_JPEG%2Fmovie_image.jpg"
   },
   {
-    "adult": false,
-    "backdrop_path": "/wNAhuOZ3Zf84jCIlrcI6JhgmY5q.jpg",
-    "belongs_to_collection": {
-      "id": 8945,
-      "name": "매드맥스 시리즈",
-      "poster_path": "/9U9QmbCDIBhqDShuIxOiS9gjKYz.jpg",
-      "backdrop_path": "/fhv3dWOuzeW9eXOSlr8MCHwo24t.jpg"
-    },
-    "budget": 170000000,
-    "genres": [
-      {
-        "id": 28,
-        "name": "액션"
-      },
-      {
-        "id": 12,
-        "name": "모험"
-      },
-      {
-        "id": 878,
-        "name": "SF"
-      }
-    ],
-    "homepage": "",
-    "id": 786892,
-    "imdb_id": "tt12037194",
-    "origin_country": ["AU", "US"],
-    "original_language": "en",
-    "original_title": "Furiosa: A Mad Max Saga",
-    "overview": "문명 붕괴 45년 후, 황폐해진 세상 속 누구에게도 알려지지 않은 풍요가 가득한 녹색의 땅에서 자란 퓨리오사는 바이커 군단의 폭군 디멘투스의 손에 모든 것을 잃고 만다. 가족도 행복도 모두 빼앗기고 세상에 홀로 내던져진 퓨리오사는 반드시 고향으로 돌아가겠다는 어머니와의 약속을 지키기 위해 인생 전부를 건 복수를 시작하는데...",
-    "popularity": 509.957,
-    "poster_path": "/zaUFDdJidS4Nyyd6jb2Ok3Kq4Vo.jpg",
-    "production_companies": [
-      {
-        "id": 174,
-        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
-        "name": "Warner Bros. Pictures",
-        "origin_country": "US"
-      },
-      {
-        "id": 28382,
-        "logo_path": "/xqE1fjLynj3RaZca9chctZQyfzZ.png",
-        "name": "Kennedy Miller Mitchell",
-        "origin_country": "AU"
-      },
-      {
-        "id": 216687,
-        "logo_path": null,
-        "name": "Domain Entertainment",
-        "origin_country": "US"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "AU",
-        "name": "Australia"
-      },
-      {
-        "iso_3166_1": "US",
-        "name": "United States of America"
-      }
-    ],
-    "release_date": "2024-05-22",
-    "revenue": 172775791,
-    "runtime": 149,
-    "spoken_languages": [
-      {
-        "english_name": "English",
-        "iso_639_1": "en",
-        "name": "English"
-      }
-    ],
-    "status": "Released",
-    "tagline": "분노가 깨어나다",
-    "title": "퓨리오사: 매드맥스 사가",
-    "video": false,
-    "vote_average": 7.589,
-    "vote_count": 2957
+    "id": 9,
+    "title": "조커: 폴리 아 되",
+    "releaseDate": "2024-10-01",
+    "company": "워너 브러더스 코리아㈜",
+    "genres": ["범죄", "드라마", "뮤지컬"],
+    "subTitle": "온 세상이 바로 무대",
+    "description": "“더 이상 혼자가 아니야” 세상이란 무대에서 폭주하기 시작한 ‘조커’와 ‘할리 퀸’을 확인하라! 2년 전, 세상을 뒤흔들며 고담시 아이콘으로 자리한 ‘아서 플렉’은 아캄 수용소에 갇혀 최종 재판을 앞둔 무기력한 삶을 살아간다. 그러던 어느 날, 수용소에서 운명적으로 만난 ‘리 퀸젤’은 ‘아서’의 삶을 다시 뒤바꾸며 그의 마음 속에 잠들어 있던 ‘조커’를 깨우고 ‘리’ 역시 각성하며 자신을 ‘할리 퀸’이라 지칭하며 서로에게 깊이 빠져든다. 무고한 시민을 죽인 죄로 재판에 오르게 된 ‘아서’ 그는 최후의 심판대에서 ‘할리 퀸’과 함께 자신, ‘조커’의 이야기를 시작하는데…",
+    "runtime": 138,
+    "posterImgUrl": "https://search.pstatic.net/common?quality=75&direct=true&src=https%3A%2F%2Fmovie-phinf.pstatic.net%2F20240919_160%2F17267100850257nicf_JPEG%2Fmovie_image.jpg"
   },
   {
-    "adult": false,
-    "backdrop_path": "/mO9oOVXM8tTlC11VFM4FBBNnL3f.jpg",
-    "belongs_to_collection": {
-      "id": 619802,
-      "name": "범죄도시 시리즈",
-      "poster_path": "/okrQjYR6Jm5U7DsJRpjvXEKOKHN.jpg",
-      "backdrop_path": "/ra2aSkkwOQRoymeg5p19PfnC9r9.jpg"
-    },
-    "budget": 0,
-    "genres": [
-      {
-        "id": 80,
-        "name": "범죄"
-      },
-      {
-        "id": 28,
-        "name": "액션"
-      },
-      {
-        "id": 18,
-        "name": "드라마"
-      }
-    ],
-    "homepage": "",
-    "id": 1017163,
-    "imdb_id": "tt27811040",
-    "origin_country": ["KR"],
-    "original_language": "ko",
-    "original_title": "범죄도시 4",
-    "overview": "신종 마약 사건 3년 뒤, 괴물형사 마석도와 서울 광수대는 배달앱을 이용한 마약 판매 사건을 수사하던 중 수배 중인 앱 개발자가 필리핀에서 사망한 사건이 대규모 온라인 불법 도박 조직과 연관되어 있음을 알아낸다. 필리핀에 거점을 두고 납치, 감금, 폭행, 살인 등으로 대한민국 온라인 불법 도박 시장을 장악한 특수부대 용병 출신의 빌런 백창기와 한국에서 더 큰 판을 짜고 있는 IT업계 천재 CEO 장동철. 마석도는 더 커진 판을 잡기 위해 장이수에게 뜻밖의 협력을 제안하고 광역수사대는 물론, 사이버수사대까지 합류해 범죄를 소탕하기 시작하는데…",
-    "popularity": 56.377,
-    "poster_path": "/h1YarEjeYurkAwXgfY1RDMVCiin.jpg",
-    "production_companies": [
-      {
-        "id": 84678,
-        "logo_path": "/8pjrX8L669kQUdCqCCpv3uWOSBC.png",
-        "name": "BA Entertainment",
-        "origin_country": "KR"
-      },
-      {
-        "id": 96989,
-        "logo_path": null,
-        "name": "Hong Film",
-        "origin_country": "KR"
-      },
-      {
-        "id": 129217,
-        "logo_path": "/s5rN5NUfE9yx21Yh0CuLULAGH5Y.png",
-        "name": "Big Punch Pictures",
-        "origin_country": "KR"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "KR",
-        "name": "South Korea"
-      }
-    ],
-    "release_date": "2024-04-24",
-    "revenue": 0,
+    "id": 10,
+    "title": "위키드",
+    "releaseDate": "2024-11-20",
+    "company": "유니버설 픽쳐스",
+    "genres": ["판타지", "뮤지컬"],
+    "subTitle": "누구나 세상을 날아오를 수 있어",
+    "description": "자신의 진정한 힘을 미처 발견하지 못한 '엘파바'(신시아 에리보) 자신의 진정한 본성을 아직 발견하지 못한 ‘글린다'(아리아나 그란데) 전혀 다른 두 사람은 마법 같은 우정을 쌓아간다. 그러던 어느 날, '마법사'의 초대를 받아 에메랄드 시티로 가게 되고 운명은 예상치 못한 위기와 모험으로 두 사람을 이끄는데… 마법 같은 운명의 시작, 누구나 세상을 날아오를 수 있어",
+    "runtime": 160,
+    "posterImgUrl": "https://search.pstatic.net/common?quality=75&direct=true&src=https%3A%2F%2Fmovie-phinf.pstatic.net%2F20241025_137%2F17298456813576Byb7_JPEG%2Fmovie_image.jpg"
+  },
+  {
+    "id": 11,
+    "title": "고독한 미식가 더 무비",
+    "releaseDate": "2025-03-19",
+    "company": "㈜빌리언스플러스",
+    "genres": ["드라마"],
+    "subTitle": "고로 씨에게 주어진 불가능한 미션 \"궁극의 국물을 찾아라!\"",
+    "description": "우리들의 밥친구이자 프로 혼밥러 고로 씨 인생 최대 위기 발발! 옛 연인의 딸에게 연락을 받고 파리에 도착한 이노가시라 고로(마츠시게 유타카)는 어린 시절 먹었던 국물을 꼭 다시 맛보고 싶다는 노인의 황당한 부탁을 들어주기로 한다. 고로 씨는 '잇짱지루'라 불리는 그 국물의 정체를 찾아 외딴섬으로 향하던 중 폭풍을 만나 한국의 이름 모를 섬으로 떠밀려와 불법 입국 소동까지 겪는다. 이토록 험난한 모험 속에서 우연히 만나게 된 여러 사람들의 도움을 받으며 점차 궁극의 국물에 도달하게 되는데...... 프랑스 파리에서 시작해 일본의 외딴섬, 한국 남풍도 및 거제도를 찍고, 다시 일본 도쿄로! 오로지 궁극의 국물을 위한 고로 씨의 맛있는 모험이 펼쳐진다!",
+    "runtime": 110,
+    "posterImgUrl": "https://search.pstatic.net/common?quality=75&direct=true&src=https%3A%2F%2Fmovie-phinf.pstatic.net%2F20250304_132%2F1741064558179jh12a_JPEG%2Fmovie_image.jpg"
+  },
+  {
+    "id": 12,
+    "title": "퇴마록",
+    "releaseDate": "2025-02-21",
+    "company": "㈜쇼박스",
+    "genres": ["애니메이션", "액션", "미스터리"],
+    "subTitle": "하늘이 불타던 날, 전설이 시작된다",
+    "description": "\"삼백이 반으로 나뉘고, 다섯이 모자랄 때 불씨가 하늘을 모두 태우리라\" 수백 년간 은거하던 해동밀교의 145대 교주가 생명을 제물로 바쳐 절대 악(悪)의 힘을 얻기 위한 의식을 시작한다. 해동밀교의 다섯 호법들은 그를 막기 위해 힘을 보태줄 새로운 인물을 찾아나서고, 파문 당한 신부 박윤규, 무공을 위해 밀교를 찾은 현암, 사건의 중심에 있는 예언의 아이 준후가 합세해 거대한 악에 맞서는데... 하늘이 불타던 날, 새로운 전설이 시작된다!",
+    "runtime": 85,
+    "posterImgUrl": "https://search.pstatic.net/common?quality=75&direct=true&src=https%3A%2F%2Fmovie-phinf.pstatic.net%2F20250221_206%2F1740118784337N0Gbg_JPEG%2Fmovie_image.jpg"
+  },
+  {
+    "id": 13,
+    "title": "극장판 진격의 거인 완결편 더 라스트 어택",
+    "releaseDate": "2025-03-13",
+    "company": "㈜애니플러스",
+    "genres": ["애니메이션"],
+    "subTitle": "더 라스트 어택",
+    "description": "\"이것이 최후의 \"진격\"---!\" 거인의 위협으로부터 몸을 지키기 위해 거대한 벽을 쌓고 그 안에서 숨을 죽이고 살고 있는 인류. 백 년의 평화는 초대형 거인의 습격으로 파괴됐고, 어머니를 잃은 소년 엘런 예거는 모든 거인을 없앨 것을 맹세하고 거인과 싸우는 조사병단의 일원이 되었다. 글자 그대로 목숨을 건 싸움 속에서 엘런 예거는 자신도 거인이 되는 능력을 손에 넣었고 인류의 승리에 공헌하면서 조금씩 세계의 진실에 가까워지고 있었다. 이윽고 시간이 흘러 벽 밖으로 나간 엘런은 조사병단의 동료들과 갈라섰고 어떤 무시무시한 계획을 실행한다. 수많은 거인을 이끌고, 이 세계의 살아있는 모든 것들을 짓밟는 「땅울림」. 미카사와 아르민을 시작으로 남겨진 자들은 세계를 멸망시키려 하는 엘런을 막기 위해 최후의 싸움에 나선다.",
+    "runtime": 144,
+    "posterImgUrl": "https://search.pstatic.net/common?quality=75&direct=true&src=https%3A%2F%2Fmovie-phinf.pstatic.net%2F20250307_77%2F1741311863302jElLf_JPEG%2Fmovie_image.jpg"
+  },
+  {
+    "id": 14,
+    "title": "승부",
+    "releaseDate": "2025-03-26",
+    "company": "(주)바이포엠스튜디오",
+    "genres": ["드라마"],
+    "subTitle": "지금부터 승부",
+    "description": "세계 최고 바둑 대회에서 국내 최초 우승자가 된 조훈현. 전 국민적 영웅으로 대접받던 그는 바둑 신동이라 불리는 이창호를 제자로 맞는다. “실전에선 기세가 8할이야” 제자와 한 지붕 아래에서 먹고 자며 가르친 지 수년. 모두가 스승의 뻔한 승리를 예상했던 첫 사제 대결에서 조훈현은 전 국민이 지켜보는 가운데, 기세를 탄 제자에게 충격적으로 패한다. 오랜만에 패배를 맛본 조훈현과 이제 승부의 맛을 알게 된 이창호. 조훈현은 타고난 승부사적 기질을 되살리며 다시 한번 올라갈 결심을 하게 되는데…",
+    "runtime": 115,
+    "posterImgUrl": "https://search.pstatic.net/common?quality=75&direct=true&src=https%3A%2F%2Fmovie-phinf.pstatic.net%2F20250326_269%2F1742952663537eygMU_JPEG%2Fmovie_image.jpg"
+  },
+  {
+    "id": 15,
+    "title": "콘클라베",
+    "releaseDate": "2025-03-05",
+    "company": "(주)디스테이션",
+    "genres": ["드라마", "스릴러"],
+    "subTitle": "오직 한 사람만 이길 수 있다.",
+    "description": "교황의 예기치 못한 죽음 이후 새로운 교황을 선출하는 ‘콘클라베’가 시작되고, 로렌스(랄프 파인즈)는 단장으로서 선거를 총괄하게 된다. 한편 당선에 유력했던 후보들이 스캔들에 휘말리면서 교활한 음모와 탐욕이 수면 위로 드러나는데…",
+    "runtime": 120,
+    "posterImgUrl": "https://search.pstatic.net/common?quality=75&direct=true&src=https%3A%2F%2Fmovie-phinf.pstatic.net%2F20250205_26%2F1738724461772UMYQ5_JPEG%2Fmovie_image.jpg"
+  },
+  {
+    "id": 16,
+    "title": "스트리밍",
+    "releaseDate": "2025-03-21",
+    "company": "롯데엔터테인먼트",
+    "genres": ["스릴러"],
+    "subTitle": "연쇄살인범 추적 방송에 참여하시겠습니까?",
+    "description": "구독자 수 1위의 범죄 채널 스트리머 '우상(강하늘)'이 풀리지 않던 연쇄살인 사건의 단서를 발견하고 범인을 추적하는 과정을 실시간으로 방송하며 벌어지는 스릴러",
+    "runtime": 91,
+    "posterImgUrl": "https://search.pstatic.net/common?quality=75&direct=true&src=https%3A%2F%2Fmovie-phinf.pstatic.net%2F20250325_115%2F1742870770764qLuUy_JPEG%2Fmovie_image.jpg"
+  },
+  {
+    "id": 17,
+    "title": "백설공주",
+    "releaseDate": "2025-03-19",
+    "company": "월트디즈니 컴퍼니 코리아",
+    "genres": ["판타지", "뮤지컬"],
+    "subTitle": "동화 그 이상의 마법 같은 이야기",
+    "description": "눈보라가 몰아치던 겨울 밤 태어난 백설공주. 온정이 넘치던 왕국에서 모두의 사랑을 받았지만, 강력한 어둠의 힘으로 왕국을 빼앗은 여왕의 위협에 숲으로 도망친다. 마법의 숲에서 간신히 살아남은 백설공주는 신비로운 일곱 광부들과 만나게 되며 새로운 세상을 마주하고, 마음속 깊이 숨겨진 용기와 선한 힘을 깨닫게 된다. 그리고 마침내, 빼앗긴 왕국을 되찾기 위해 여왕과 맞서 싸우기로 결심하는데…",
     "runtime": 109,
-    "spoken_languages": [
-      {
-        "english_name": "English",
-        "iso_639_1": "en",
-        "name": "English"
-      },
-      {
-        "english_name": "Tagalog",
-        "iso_639_1": "tl",
-        "name": ""
-      },
-      {
-        "english_name": "Korean",
-        "iso_639_1": "ko",
-        "name": "한국어/조선말"
-      }
-    ],
-    "status": "Released",
-    "tagline": "거침없이 싹 쓸어버린다",
-    "title": "범죄도시 4",
-    "video": false,
-    "vote_average": 6.9,
-    "vote_count": 59
+    "posterImgUrl": "https://search.pstatic.net/common?quality=75&direct=true&src=https%3A%2F%2Fmovie-phinf.pstatic.net%2F20250319_123%2F1742370056144UwYpI_JPEG%2Fmovie_image.jpg"
   },
   {
-    "adult": false,
-    "backdrop_path": "/hdFIdXwS8FSN2wIsuotjW1mshI0.jpg",
-    "belongs_to_collection": null,
-    "budget": 100000000,
-    "genres": [
-      {
-        "id": 16,
-        "name": "애니메이션"
-      },
-      {
-        "id": 35,
-        "name": "코미디"
-      },
-      {
-        "id": 12,
-        "name": "모험"
-      },
-      {
-        "id": 10751,
-        "name": "가족"
-      }
-    ],
-    "homepage": "https://www.netflix.com/kr/title/81221340",
-    "id": 831815,
-    "imdb_id": "tt23063732",
-    "origin_country": ["US"],
-    "original_language": "en",
-    "original_title": "Saving Bikini Bottom: The Sandy Cheeks Movie",
-    "overview": "어느 날 누군가가 비키니 시티를 통째로 바다에서 퍼내 간다. 곧이어 도시를 구하겠다고 나서는 다람쥐 과학자 다람이. 친구인 네모바지 스폰지밥과 함께 텍사스로 모험을 떠난다.",
-    "popularity": 637.221,
-    "poster_path": "/30YnfZdMNIV7noWLdvmcJS0cbnQ.jpg",
-    "production_companies": [
-      {
-        "id": 2348,
-        "logo_path": "/oydqrfwRAm6qqdYbxuMmmPsVi87.png",
-        "name": "Nickelodeon Movies",
-        "origin_country": "US"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "US",
-        "name": "United States of America"
-      }
-    ],
-    "release_date": "2024-08-01",
-    "revenue": 0,
-    "runtime": 86,
-    "spoken_languages": [
-      {
-        "english_name": "English",
-        "iso_639_1": "en",
-        "name": "English"
-      }
-    ],
-    "status": "Released",
-    "tagline": "",
-    "title": "다람이 무비: 비키니 시티를 구하라",
-    "video": false,
-    "vote_average": 6.378,
-    "vote_count": 196
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/ySAGMTGqZpEON0VpE0bjyLerde.jpg",
-    "belongs_to_collection": null,
-    "budget": 0,
-    "genres": [
-      {
-        "id": 35,
-        "name": "코미디"
-      },
-      {
-        "id": 18,
-        "name": "드라마"
-      }
-    ],
-    "homepage": "",
-    "id": 1091051,
-    "imdb_id": "tt29419864",
-    "origin_country": ["KR"],
-    "original_language": "ko",
-    "original_title": "빅토리",
-    "overview": "1999년 세기말, 거제의 댄스 콤비 필선과 미나는 댄스 연습실을 마련하기 위해  서울에서 전학온 치어리더 세현을 내세워 치어리딩 동아리를 만든다. 그렇게 9명의 멤버들이 모여 얼렁뚱땅 탄생한 밀레니엄 걸즈. 치형의 만년 꼴찌 거제상고 축구부를 우승으로 이끌어야만 하는데… 오직 열정만큼은 충만한 생판 초짜 치어리딩 동아리  밀레니엄 걸즈의 모두를 향한 신나는 응원이 펼쳐진다!",
-    "popularity": 11.426,
-    "poster_path": "/tGoNbWpJDPpnW04Cmx19uzeBb3D.jpg",
-    "production_companies": [
-      {
-        "id": 110456,
-        "logo_path": "/9MJdyR5KLHWdynUCue5wOCZkLlS.png",
-        "name": "Annapurna Films",
-        "origin_country": "KR"
-      },
-      {
-        "id": 120690,
-        "logo_path": null,
-        "name": "East Gate Company",
-        "origin_country": "KR"
-      },
-      {
-        "id": 170305,
-        "logo_path": null,
-        "name": "Covenant Pictures",
-        "origin_country": "KR"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "KR",
-        "name": "South Korea"
-      }
-    ],
-    "release_date": "2024-08-14",
-    "revenue": 0,
-    "runtime": 119,
-    "spoken_languages": [
-      {
-        "english_name": "Korean",
-        "iso_639_1": "ko",
-        "name": "한국어/조선말"
-      }
-    ],
-    "status": "Released",
-    "tagline": "스탠드 업! 텐션 업! 치얼 업!",
-    "title": "빅토리",
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0
+    "id": 18,
+    "title": "스윙걸즈",
+    "releaseDate": "2025-03-26",
+    "company": "(주)팝엔터테인먼트",
+    "genres": ["코미디"],
+    "subTitle": "우린 스윙한다! 그 누구보다 재미있게",
+    "description": "\"빅밴드 재즈? 그게 뭐하는 건데?\" 지루한 보충수업을 째고 싶었을 뿐, 토모코(색소폰) 야구부 선배에게 홀딱 반했을 뿐, 요시에(트럼펫) 남들보다 폐활량이 뛰어났을 뿐, 세키구치(트럼본) 어쩌다 친구 따라왔을 뿐, 나오미(드럼) 심벌즈가 적성에 안 맞았을 뿐, 나카무라(피아노) 짝사랑하는 재즈 덕후일 뿐, 수학 선생님(지휘) 대단한 이유 없음! 눈부신 재능 없음! 거창한 목표 없음! 그래서 우린 스윙한다♬ 그 누구보다 재미있게♬",
+    "runtime": 103,
+    "posterImgUrl": "https://search.pstatic.net/common?quality=75&direct=true&src=https%3A%2F%2Fmovie-phinf.pstatic.net%2F20250311_297%2F1741675957835xcn5f_JPEG%2Fmovie_image.jpg"
   }
 ]

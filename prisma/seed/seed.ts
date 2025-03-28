@@ -1,6 +1,7 @@
 import { PrismaClient } from '@prisma/client';
 import movieData from './movie.json';
 import reviewData from './review.json';
+
 import { removeWhitespace } from 'src/util/remove-whitepsace';
 const prisma = new PrismaClient();
 
@@ -27,19 +28,11 @@ async function truncateAllTable() {
 async function createSeedData() {
   await prisma.movie.createMany({
     data: movieData.map((movie) => ({
-      id: movie.id,
-      title: movie.title,
-      subTitle: movie.tagline,
-      description: movie.overview,
-      releaseDate: movie.release_date,
-      company: movie.production_companies.map(({ name }) => name).join(', '),
-      genres: movie.genres.map(({ name }) => name),
-      runtime: movie.runtime,
-      posterImgUrl: `https://media.themoviedb.org/t/p/w300_and_h450_face${movie.poster_path}`,
+      ...movie,
       searchIndex: removeWhitespace([
         movie.title,
-        movie.tagline,
-        movie.overview,
+        movie.subTitle,
+        movie.description,
       ]),
     })),
   });
